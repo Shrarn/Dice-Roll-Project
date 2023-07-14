@@ -35,7 +35,7 @@ class _DiceRollerState extends State<DiceRoller> {
             style: TextButton.styleFrom(
                 backgroundColor: const Color.fromARGB(255, 255, 241, 113)),
             child: const Text(
-              'Roll Dice',
+              'Roll the Dice',
               style: TextStyle(color: Colors.black, fontSize: 28),
             ))
       ],
